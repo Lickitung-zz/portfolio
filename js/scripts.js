@@ -95,3 +95,7 @@
     });
 
 })(jQuery);
+
+const ScrollReveal = require('scrollreveal');
+ScrollReveal().reveal('#experience .profile-pic');
+
